@@ -15,6 +15,6 @@ document.addEventListener('DOMContentLoaded', () => {
 			element.style.transition = 'opacity 1s'
 			element.style.opacity = 1
 		}, delay)
-		delay += 100
+		delay += 500
 	})
 })
