@@ -35,9 +35,9 @@ footer p {
 	margin: 0;
 }
 
-/* Klasse, die Text mit rot hinterlegt, Schrift weiss macht und zentriert */
+/* Klasse, die Text mit der Farbe salmon hinterlegt, Schrift weiss macht und zentriert */
 .warning {
-	background: red;
+	background: salmon;
 	color: white;
 	padding: 1rem 2rem;
 	text-align: center;
