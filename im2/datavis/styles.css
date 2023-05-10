@@ -3,9 +3,9 @@ body {
 	margin: 0;
 	padding: 0;
 	height: 100%;
-	width: 100%;
-	max-width: 900px;
-	margin: 3rem auto;
+	width: 900px;
+	max-width: 90%;
+	margin: 2rem auto;
 }
 
 /* Arial bzw. sans-serif als Standardfont */
