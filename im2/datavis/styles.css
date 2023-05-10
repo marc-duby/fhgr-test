@@ -19,20 +19,20 @@ h1 {
 }
 
 p {
-  margin-top: 0;
-  margin-bottom: 1rem;
+	margin-top: 0;
+	margin-bottom: 1rem;
 }
 
 /* Footer soll Text mit grauem Hintergrund und weisser Schrift erhalten */
 footer {
 	font-style: italic;
-  background: #ccc;
-  padding: 1rem 2rem;
-  text-align: center;
+	background: #ccc;
+	padding: 1rem 2rem;
+	text-align: center;
 }
 
 footer p {
-  margin: 0;
+	margin: 0;
 }
 
 /* Klasse, die Text mit rot hinterlegt, Schrift weiss macht und zentriert */
